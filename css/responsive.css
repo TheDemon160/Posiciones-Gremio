@@ -1,0 +1,31 @@
+
+@media (min-width: 1200px) {
+    .todo{
+        width: 40% ;
+        display: contents;
+   
+
+    }
+}
+
+@media (min-width: 768px) {
+    .todo{
+        width: 65%;
+        display: contents;
+        
+     }
+}
+
+@media (max-width: 767px) {
+    .todo{
+        width: 80%;
+        display: contents;
+     }
+}
+
+@media (max-width: 480px) {
+    .todo{
+        width: 90%;
+        display: contents;
+     }
+}
